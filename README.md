@@ -1,0 +1,2 @@
+# mnist-_sklearn
+使用sklearn构建mnist数据集识别
